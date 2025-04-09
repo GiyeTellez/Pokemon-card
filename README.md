@@ -1,25 +1,2 @@
 # Pokemon-card
 Repository created for practicing HTML. The idea is to create a easy website inspired on Pokemon
-<!DOCTYPE html>
-<html lang="ca">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tarjeta de Pokémon</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="pokemon-card">
-        <img class="pokemon-image" src="bulbasaur.png" alt="Imatge del Pokémon">
-        <div class="pokemon-info">
-            <h2 class="pokemon-name">Bulbasaur</h2>
-            <p class="pokemon-type plant">Planta</p>
-            <p class="pokemon-type poison">Veneno</p>
-            <p class="pokemon-description">
-                Bulbasaur és un Pokémon de tipo Planta y Veneno. És fàcil distingirlo por la semilla que tiene en la espalda, que crece a medida que el lo hace.
-            </p>
-        </div>
-    </div>
-</body>
-</html>
-
