@@ -10,7 +10,7 @@ Repository created for practicing HTML. The idea is to create a easy website ins
 </head>
 <body>
     <div class="pokemon-card">
-        <img class="bulbasaur.png" src="images/bulbasaur.png" alt="Imatge del Pokémon">
+        <img class="pokemon-image" src="bulbasaur.png" alt="Imatge del Pokémon">
         <div class="pokemon-info">
             <h2 class="pokemon-name">Bulbasaur</h2>
             <p class="pokemon-type plant">Planta</p>
@@ -22,3 +22,4 @@ Repository created for practicing HTML. The idea is to create a easy website ins
     </div>
 </body>
 </html>
+
