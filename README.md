@@ -14,9 +14,9 @@ Repository created for practicing HTML. The idea is to create a easy website ins
         <div class="pokemon-info">
             <h2 class="pokemon-name">Bulbasaur</h2>
             <p class="pokemon-type plant">Planta</p>
-            <p class="pokemon-type poison">Verí</p>
+            <p class="pokemon-type poison">Veneno</p>
             <p class="pokemon-description">
-                Bulbasaur és un Pokémon de tipus Planta i Verí. És fàcil distingir-lo per la llavor que té a l'esquena, que creix a mesura que ell ho fa.
+                Bulbasaur és un Pokémon de tipo Planta y Veneno. És fàcil distingirlo por la semilla que tiene en la espalda, que crece a medida que el lo hace.
             </p>
         </div>
     </div>
